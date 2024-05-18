@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/daoshu.png</file>
+        <file>Resource/huitui.png</file>
+        <file>Resource/kaipingfang.png</file>
+        <file>Resource/pingfang.png</file>
+        <file>Resource/style.css</file>
+        <file>Resource/kuohao.png</file>
+        <file>Resource/qingkong.png</file>
+        <file>Resource/jisuanqi.png</file>
+        <file>Resource/error.png</file>
+        <file>Resource/background.png</file>
+    </qresource>
+</RCC>

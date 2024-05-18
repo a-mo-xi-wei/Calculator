@@ -1,0 +1,52 @@
+QLineEdit {
+	border: 5px solid white;
+	background-color: #CCFFCC ;
+	font:bold 20px "微软雅黑";
+	border-radius: 20px;
+}
+QLineEdit:hover{
+	border:5px solid black;
+}
+QPushButton{
+	border:2px solid black;
+	border-radius:8px;
+}
+QPushButton:hover {
+	border-width: 3px;
+	background-color: #CCFFFF;
+}
+QPushButton:pressed {
+	border-width: 3px;
+	background-color: #66FFFF;
+}
+
+QMessageBox {
+	background-color: #FFCC99;
+	border-radius:10px;
+}
+QMessageBox QLabel {
+	font:bold 20px "华文行楷";
+	color: black;
+	padding-left:0px;
+	padding-top:20px;
+	margin-right:10px;
+	text-align: center;
+}
+QMessageBox QPushButton {
+	background-color: #CCFFCC;
+	color: black;
+	width: 60px;
+	height: 30px;
+	margin-right: 10px;
+	border:none;
+	border-radius: 10px;
+}
+QMessageBox QPushButton:hover {
+	background-color: #CCFF33;
+}
+QLabel {
+	border: none;
+	font: bold 20px "微软雅黑";
+	border-radius: 20px;
+	text-align:center;
+}
